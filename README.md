@@ -8,6 +8,6 @@ This experimental projects does the following:
 3. Interaction with user via shell
 4. Show dyanamic progress bar in the shell
 
-|![](https://gitlab.com/asimeetp/ecom-fe/-/raw/main/ecokk-gif.gif)|
+|![](https://github.com/asimeet/node-shell-scripting-with-progress-bar/blob/main/progress-bar-shell.gif)|
 |----------------------------------------------------------------|
 
