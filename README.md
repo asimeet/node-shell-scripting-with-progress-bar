@@ -8,6 +8,6 @@ This experimental projects does the following:
 3. Interaction with user via shell
 4. Show dyanamic progress bar in the shell
 
-|![](https://gitlab.com/asimeetp/ecom-fe/-/raw/main/ecom-gif.gif)|
+|![](https://gitlab.com/asimeetp/ecom-fe/-/raw/main/ecokk-gif.gif)|
 |----------------------------------------------------------------|
 
