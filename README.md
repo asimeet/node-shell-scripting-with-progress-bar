@@ -1,5 +1,5 @@
 # node-shell-scripting-with-progress-bar
-Interactive shell scripting in node.js with progress bar
+<h2>Interactive shell scripting in node.js with progress bar</h2>
 
 This experimental projects does the following:
 
